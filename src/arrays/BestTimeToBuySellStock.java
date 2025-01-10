@@ -1,4 +1,4 @@
-package arrays.easy;
+package arrays;
 
 public class BestTimeToBuySellStock {
     // complexity = O(n)

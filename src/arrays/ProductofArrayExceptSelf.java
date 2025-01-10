@@ -1,4 +1,4 @@
-package arrays.easy;
+package arrays;
 
 public class ProductofArrayExceptSelf {
     // complexity = O(n)
